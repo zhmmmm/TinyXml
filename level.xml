@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="gb2312"?>
+<layout>
+  <level data='34433443322132211001' id=1 pased=0 recod=0>云遮雾障</level>
+  <level data='34433443322331131001' id=2 pased=0 recod=0>横刀立马</level>
+  <level data='14413443322312210220' id=3 pased=0 recod=0>兵将联防</level>
+  <level data='34433443122112210220' id=4 pased=0 recod=0>层层设防</level>
+  <level data='34413441322332231001' id=5 pased=0 recod=0>重重包围</level>
+  <level data='22442244222210131013' id=6 pased=0 recod=0>比翼横空</level>
+  <level data='14411441322333330330' id=7 pased=0 recod=0>兵临曹营</level>
+  <level data='34433443122131133003' id=8 pased=0 recod=0>将守角楼</level>
+  <level data='11442244222222220011' id=9 pased=0 recod=0>前呼后拥</level>
+  <level data='44334433222212211001' id=10 pased=0 recod=0>三军联防</level>
+  <level data='14431443222222221001' id=11 pased=0 recod=0>水泄不通</level>
+  <level data='44134413110022222222' id=12 pased=0 recod=0>四路进兵</level>
+  <level data='14411441222222222222' id=13 pased=0 recod=0>巧过五关</level>
+  <level data='14413443330313012222' id=14 pased=0 recod=0>守口如瓶</level>
+  <level data='44224422332233111001' id=15 pased=0 recod=0>四将连关</level>
+  <level data='31133443144332233001' id=16 pased=0 recod=0>四面楚歌</level>
+  <level data='44334433221133113300' id=17 pased=0 recod=0>屯兵东路</level>
+  <level data='44134413222222221001' id=18 pased=0 recod=0>夹道藏兵</level>
+  <level data='34413441221132233003' id=19 pased=0 recod=0>插翅难飞</level>
+  <level data='22223443344312211001' id=20 pased=0 recod=0>五将逼宫</level>
+  <level data='22442244222222111100' id=21 pased=0 recod=0>将挡后路</level>
+</layout>
